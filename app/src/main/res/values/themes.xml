@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Fups" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white_light</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="actionMenuTextColor">@color/white</item>
+        <item name="colorControlActivated">@color/blue</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlHighlight">@color/blue</item>
+
+        <item name="titleTextColor">@color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

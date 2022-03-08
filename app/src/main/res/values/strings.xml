@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fups</string>
+    <string name="forgot_password">Şifremi Unuttum</string>
+    <string name="password">Şifren</string>
+    <string name="login">giriş</string>
+    <string name="login_title">GSM numaranı ve şifreni girerek FUPS hesabına giriş yapabilirsin.</string>
+    <string name="country_code">Ülke Kodu</string>
+    <string name="gsm">GSM Numaran</string>
+    <string name="login_bottom_title">HESABINLA NELER YAPABİLİRSİN?</string>
+</resources>
